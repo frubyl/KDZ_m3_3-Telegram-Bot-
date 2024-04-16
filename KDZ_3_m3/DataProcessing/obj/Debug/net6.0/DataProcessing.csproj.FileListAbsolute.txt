@@ -1,0 +1,17 @@
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\obj\Debug\net6.0\DataProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\obj\Debug\net6.0\DataProcessing.AssemblyInfoInputs.cache
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\obj\Debug\net6.0\DataProcessing.AssemblyInfo.cs
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\obj\Debug\net6.0\DataProcessing.csproj.CoreCompileInputs.cache
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\bin\Debug\net6.0\DataProcessing.deps.json
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\bin\Debug\net6.0\DataProcessing.dll
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\bin\Debug\net6.0\DataProcessing.pdb
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\bin\Debug\net6.0\AdditionalLibrary.dll
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\bin\Debug\net6.0\Logger.dll
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\bin\Debug\net6.0\AdditionalLibrary.pdb
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\bin\Debug\net6.0\Logger.pdb
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\obj\Debug\net6.0\DataProcessing.csproj.AssemblyReference.cache
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\obj\Debug\net6.0\DataProcessing.csproj.CopyComplete
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\obj\Debug\net6.0\DataProcessing.dll
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\obj\Debug\net6.0\refint\DataProcessing.dll
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\obj\Debug\net6.0\DataProcessing.pdb
+C:\Users\frubyl\Desktop\KDZ_3_m3\DataProcessing\obj\Debug\net6.0\ref\DataProcessing.dll

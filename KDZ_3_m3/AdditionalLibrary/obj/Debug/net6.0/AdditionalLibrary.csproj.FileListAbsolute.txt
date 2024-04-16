@@ -1,0 +1,15 @@
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\bin\Debug\net6.0\AdditionalLibrary.deps.json
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\bin\Debug\net6.0\AdditionalLibrary.dll
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\bin\Debug\net6.0\AdditionalLibrary.pdb
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\bin\Debug\net6.0\Logger.dll
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\bin\Debug\net6.0\Logger.pdb
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\obj\Debug\net6.0\AdditionalLibrary.csproj.AssemblyReference.cache
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\obj\Debug\net6.0\AdditionalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\obj\Debug\net6.0\AdditionalLibrary.AssemblyInfoInputs.cache
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\obj\Debug\net6.0\AdditionalLibrary.AssemblyInfo.cs
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\obj\Debug\net6.0\AdditionalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\obj\Debug\net6.0\AdditionalLibrary.csproj.CopyComplete
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\obj\Debug\net6.0\AdditionalLibrary.dll
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\obj\Debug\net6.0\refint\AdditionalLibrary.dll
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\obj\Debug\net6.0\AdditionalLibrary.pdb
+C:\Users\frubyl\Desktop\KDZ_3_m3\AdditionalLibrary\obj\Debug\net6.0\ref\AdditionalLibrary.dll
